@@ -1,7 +1,7 @@
-#Contact Us With WhatsApp
+# Contact Us With WhatsApp
 
 ## Ikhtisar
-Repositori ini berisi kode sumber untuk formulir "Kontak Kami" untuk sebuah situs web. Formulir ini memungkinkan pengguna untuk memberikan umpan balik, pertanyaan, atau pesan yang akan dikirim melalui WhatsApp. Selain itu, gambar kontak (`kontak.png`) disertakan untuk tujuan branding.
+Repositori ini berisi kode sumber untuk formulir "Kontak Kami" untuk sebuah situs web. Formulir ini memungkinkan pengguna untuk memberikan umpan balik, pertanyaan, atau pesan yang akan dikirim melalui WhatsApp.
 
 ## Fitur-fitur
 - **Formulir Input Pengguna**: Pengguna dapat memasukkan nama, email, pesan, dan rincian tambahan.
